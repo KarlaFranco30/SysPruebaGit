@@ -1,0 +1,11 @@
+C:\Users\karla\source\repos\SysPruebaGit\SysPruebaGit.BL\bin\Debug\net6.0\SysPruebaGit.BL.deps.json
+C:\Users\karla\source\repos\SysPruebaGit\SysPruebaGit.BL\bin\Debug\net6.0\SysPruebaGit.BL.dll
+C:\Users\karla\source\repos\SysPruebaGit\SysPruebaGit.BL\bin\Debug\net6.0\SysPruebaGit.BL.pdb
+C:\Users\karla\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\SysPruebaGit.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karla\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\SysPruebaGit.BL.AssemblyInfoInputs.cache
+C:\Users\karla\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\SysPruebaGit.BL.AssemblyInfo.cs
+C:\Users\karla\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\SysPruebaGit.BL.csproj.CoreCompileInputs.cache
+C:\Users\karla\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\SysPruebaGit.BL.dll
+C:\Users\karla\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\refint\SysPruebaGit.BL.dll
+C:\Users\karla\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\SysPruebaGit.BL.pdb
+C:\Users\karla\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\ref\SysPruebaGit.BL.dll
